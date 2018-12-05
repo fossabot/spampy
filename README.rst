@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fabdullahselek%2Fspampy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fabdullahselek%2Fspampy?ref=badge_shield)
+
 spampy
 ======
 
@@ -58,3 +60,7 @@ For available commands ``python spampy -h``
       $ python spampy --download
       $ python spampy --eclassify
       $ python spampy --classify
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fabdullahselek%2Fspampy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fabdullahselek%2Fspampy?ref=badge_large)
